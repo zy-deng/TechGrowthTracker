@@ -1,4 +1,4 @@
-# [Project Name, e.g., TechGrowthTracker]
+# TechGrowthTracker
 
 ## Introduction
 Welcome to my personal learning project, designed to track and motivate my journey through Rust, Python, C++, and database technologies. Here, I record learning materials, set daily goals, reflect on what I've studied, and plan my next steps.
